@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santanacontatto-cyber.github.io/circuito-util/sitemap.xml

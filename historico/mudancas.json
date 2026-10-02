@@ -15,6 +15,11 @@
       "data": "02/10/2026",
       "tipo": "historia_publica",
       "resumo": "Publicada a página 'Como chegamos até aqui', com linha do tempo verificável da parceria humano–IA, rastros públicos anteriores, limites de privacidade e o nascimento do Circuito Útil."
+    },
+    {
+      "data": "02/10/2026",
+      "tipo": "descoberta_organica",
+      "resumo": "Criadas duas portas públicas por intenção real — 'Preciso de ajuda' e 'Quero ajudar' — além de sitemap, robots, canonicals e links internos. O objetivo é permitir descoberta orgânica sem distorcer o escopo do piloto."
     }
   ]
 }

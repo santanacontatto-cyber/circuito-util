@@ -19,3 +19,11 @@ Fluxo: Discord → execução → validação/encerramento → resumo anonimizad
 Identidade de participante é privada por padrão. Falhas e resultados parciais não são removidos para melhorar aparência.
 
 Contato da Coordenação: hollenfauer@gmail.com
+## Página pública
+
+- Site: https://santanacontatto-cyber.github.io/circuito-util/
+- Preciso de ajuda: https://santanacontatto-cyber.github.io/circuito-util/preciso-de-ajuda.html
+- Quero ajudar: https://santanacontatto-cyber.github.io/circuito-util/quero-ajudar.html
+- História pública: https://santanacontatto-cyber.github.io/circuito-util/historia.html
+
+As duas páginas de entrada existem para corresponder a intenções reais: quem tem um gargalo concreto e quem procura um projeto real onde uma capacidade útil possa ser aplicada. Não são páginas de palavras-chave genéricas; cada uma explica elegibilidade, limites, fluxo e primeiro contato.
