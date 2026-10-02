@@ -10,6 +10,11 @@
       "data": "02/10/2026",
       "tipo": "arquitetura_publica",
       "resumo": "Estado e casos públicos separados do HTML em arquivos JSON versionados. Casos só entram após validação, encerramento e revisão de privacidade."
+    },
+    {
+      "data": "02/10/2026",
+      "tipo": "historia_publica",
+      "resumo": "Publicada a página 'Como chegamos até aqui', com linha do tempo verificável da parceria humano–IA, rastros públicos anteriores, limites de privacidade e o nascimento do Circuito Útil."
     }
   ]
 }
