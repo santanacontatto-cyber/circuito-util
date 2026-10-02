@@ -1,0 +1,14 @@
+{
+  "versao": 1,
+  "atualizado_em": "02/10/2026",
+  "fase": "pré-abertura",
+  "acesso": "Somente por convite",
+  "participantes_atuais": 1,
+  "casos_aceitos": 0,
+  "casos_ativos": 0,
+  "simulacoes_concluidas": 1,
+  "incidentes_relevantes": 0,
+  "cobranca_ou_intermediacao_financeira": false,
+  "limite_participantes": 12,
+  "limite_casos_ativos": 3
+}

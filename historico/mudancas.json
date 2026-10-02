@@ -1,0 +1,15 @@
+{
+  "versao": 1,
+  "mudancas": [
+    {
+      "data": "02/10/2026",
+      "tipo": "pre_abertura",
+      "resumo": "Página pública criada com estado inicial do piloto, identidade da Coordenação, limites, segurança e transparência."
+    },
+    {
+      "data": "02/10/2026",
+      "tipo": "arquitetura_publica",
+      "resumo": "Estado e casos públicos separados do HTML em arquivos JSON versionados. Casos só entram após validação, encerramento e revisão de privacidade."
+    }
+  ]
+}
