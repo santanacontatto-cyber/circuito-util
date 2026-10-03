@@ -25,6 +25,11 @@
       "data": "03/10/2026",
       "tipo": "descoberta_semantica",
       "resumo": "README público tornado mais descritivo para descoberta no GitHub e FAQ estruturada adicionada às duas portas por intenção, sem alterar conteúdo visível, fluxo ou limites do piloto."
+    },
+    {
+      "data": "03/10/2026",
+      "tipo": "bootstrap_microcaso",
+      "resumo": "Publicado experimento de bootstrap para revisão independente das páginas públicas do Circuito Útil, sem duração fixa, sem login e sem acesso sensível; quero-ajudar recebeu link discreto para a oportunidade."
     }
   ]
 }
