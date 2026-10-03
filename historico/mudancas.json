@@ -20,6 +20,11 @@
       "data": "02/10/2026",
       "tipo": "descoberta_organica",
       "resumo": "Criadas duas portas públicas por intenção real — 'Preciso de ajuda' e 'Quero ajudar' — além de sitemap, robots, canonicals e links internos. O objetivo é permitir descoberta orgânica sem distorcer o escopo do piloto."
+    },
+    {
+      "data": "03/10/2026",
+      "tipo": "descoberta_semantica",
+      "resumo": "README público tornado mais descritivo para descoberta no GitHub e FAQ estruturada adicionada às duas portas por intenção, sem alterar conteúdo visível, fluxo ou limites do piloto."
     }
   ]
 }

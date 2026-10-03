@@ -1,11 +1,22 @@
-# Circuito Útil — piloto
+# Circuito Útil — ajuda prática para projetos e problemas reais
 
-Página pública do piloto fechado Circuito Útil.
+**Site público:** https://santanacontatto-cyber.github.io/circuito-util/
+
+O Circuito Útil é um piloto brasileiro, fechado e gratuito nesta fase, criado para conectar **gargalos concretos** a **capacidades compatíveis** com escopo pequeno, limites claros e resultado observável.
+
+Duas portas públicas ajudam quem ainda não conhece o nome do projeto a chegar pela necessidade real:
+
+- **Preciso de ajuda para destravar um projeto ou problema real:** https://santanacontatto-cyber.github.io/circuito-util/preciso-de-ajuda.html
+- **Quero ajudar em um projeto real e ganhar experiência prática:** https://santanacontatto-cyber.github.io/circuito-util/quero-ajudar.html
+
+O piloto não é vaga de emprego, marketplace, promessa de renda nem suporte de emergência. Participantes continuam no controle das próprias contas, decisões e autorizações.
 
 ## Estrutura
 
 - `index.html` — apresentação pública estável.
 - `historia.html` — linha do tempo pública e verificável de como a parceria e o piloto chegaram ao estado atual.
+- `preciso-de-ajuda.html` — porta para quem já tem um gargalo concreto em andamento.
+- `quero-ajudar.html` — porta para quem quer aplicar uma capacidade útil em um microcaso real.
 - `data/estado.json` — estado e métricas agregadas atuais.
 - `data/casos-publicos.json` — somente casos reais encerrados e aptos à publicação.
 - `historico/mudancas.json` — mudanças relevantes de protocolo e estrutura.
@@ -19,6 +30,7 @@ Fluxo: Discord → execução → validação/encerramento → resumo anonimizad
 Identidade de participante é privada por padrão. Falhas e resultados parciais não são removidos para melhorar aparência.
 
 Contato da Coordenação: hollenfauer@gmail.com
+
 ## Página pública
 
 - Site: https://santanacontatto-cyber.github.io/circuito-util/
